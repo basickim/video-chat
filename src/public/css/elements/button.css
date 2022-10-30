@@ -1,4 +1,4 @@
-button, input[type="submit"]{
+button, .chat form button{
     border: 1px solid #aeaeae;
     border-radius: 8px;
     background-color: #3b82f6;

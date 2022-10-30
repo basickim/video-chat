@@ -5,6 +5,9 @@ const muteBtn = document.getElementById("mute");
 const cameraBtn = document.getElementById("camera");
 const cameraSelect = document.getElementById("cameras");
 const call = document.getElementById("call");
+const msg = call.querySelector("li");
+const msg_value = document.getElementById("a");
+const sendBtn = document.getElementById("b");
 
 let myStream;
 let muted = false;

@@ -36,7 +36,8 @@ video{
 .chat form input[type="text"]:focus{
     outline: none;
 }
-.chat form input[type="submit"]{
+.chat form button{
     width: 25%;
+    height: 45px;
     border-radius: 0;
 }
